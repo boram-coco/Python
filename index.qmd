@@ -14,3 +14,6 @@ title-block-banner: true
 ---
 
 
+- guebin Choi, Professor of Statistics, Jeonbuk National University
+
+- [github](https://guebin.github.io/IP2022/)
